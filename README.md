@@ -1,6 +1,6 @@
-# seithi
+# REST API
 
-A new Flutter project.
+A new Flutter project based on API.
 
 ## Getting Started
 
